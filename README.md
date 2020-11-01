@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm currently student. I've just barely begun my journey with coding 'n stuff like that.
+I'll try to do my best and hopefully, you'll will be able to witness some of my progress below.
 
 <!--
 **dkirxxr/dkirxxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
